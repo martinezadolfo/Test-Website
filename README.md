@@ -2,6 +2,6 @@
 
 This is a very simple page that changes the background image when you click the button.
 
-<p>[Try it out.](https://martinezadolfo.github.io/testsite)</p>
+<p>[Try it out.](https://martinezadolfo.github.io/Test-Website)</p>
 
 ![Website Demo](/WebsiteDemo.png)
